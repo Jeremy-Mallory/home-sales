@@ -1,4 +1,5 @@
 Instructions
+
 Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 
 Import the necessary PySpark SQL functions for this assignment.
